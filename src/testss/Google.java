@@ -9,6 +9,7 @@ public class Google {
 	WebDriver driver;
   @Test
   public void f() {
+	  //modified by hardik
 	  //Reporter.log("checking Gmail test");
 	  
 	  driver = new FirefoxDriver();
